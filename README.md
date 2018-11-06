@@ -10,6 +10,11 @@
 4. At this point, the librarian working with your group will show you how to preview the digital collection
 
 5. Were there mistakes in your collection’s display? If so, return to your group’s metadata spreadsheet and correct any metadata mistakes
+    - Hints: 
+        - Make sure the filename in your metadata matches the file's name in reality.
+        - Did you add .jpg or .pdf to the end of your filename?
+        - Make sure your date is in the proper date format (yyyy-mm-dd).
+        - Are your latitude and longitude entered in the correct columns?
 
 6. Repeat steps 1-4, replacing the metadata.csv file with the most recently updated version of your metadata
 
