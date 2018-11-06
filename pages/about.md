@@ -3,7 +3,7 @@ title: About
 layout: page
 permalink: /about/
 # add image to index page bootstrap jumbotron
-featured-image: "objects/test001.jpg"
+featured-image: "objects/pg8-x-544.jpg"
 ---
 
 {% include index/jumbotron.html %}
