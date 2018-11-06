@@ -5,14 +5,14 @@
 # Site settings
 
 # title of site appears in banner
-title: Collection Builder
+title: Mining History in Idaho
 # tagline appears in banner
-tagline: a theme for building simple digital exhibits
+tagline: a digital exhibit created by the University of Idaho's History 404 class, Fall 2018
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+description: "Explore photographs and papers that document the history of mining in northern Idaho"
 # keywords appear in meta tags
-keywords: "university of idaho, digital collections, digital humanities"
+keywords: "university of idaho, digital history, mining"
 # creator of the digital collection, to appear in meta tags
 author: evanwill
 # creator contact email for meta tags
@@ -21,11 +21,11 @@ email: ewilliamson@uidaho.edu
 collection-date: "2018"
 
 # url is your gh-pages base, following the pattern: username.github.io
-url: https://collectionbuilder.github.io
+url: https://uidaholib.github.io
 # baseurl is your github repository's name prefixed with a /
-baseurl: /collectionbuilder-gh
+baseurl: /hist404-fall2018
 # repository is the github repository's full url
-repository: https://github.com/CollectionBuilder/collectionbuilder-gh
+repository: https://github.com/uidaholib/hist404-fall2018
 
 # theme with Bootswatch (https://github.com/thomaspark/bootswatch)
 # Choose from: cerulean; cosmo; cyborg; darkly; flatly; journal; litera; lumen; lux; materia; minty; pulse; sandstone; simplex; sketchy; slate; solar; spacelab; superhero; united; yeti 
