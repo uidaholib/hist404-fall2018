@@ -1,6 +1,6 @@
 # History 404 Class Instructions:
 
-1. Download your group’s metadata spreadsheet as a csv (comma separated values) file from google sheets:
+1. Download your group’s metadata spreadsheet as a csv (comma separated values) file from google sheets (https://docs.google.com/spreadsheets/d/10I2Z9-pfD3s4dOZQJlmO6mU64uWKnCvZUdO-JUCC2-I/edit#gid=0):
     - Go to File -- Download as -- Comma-separated values (.csv, current sheet)
 
 2. Without opening the file, rename it as metadata.csv
