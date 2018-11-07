@@ -9,7 +9,7 @@
 
 4. At this point, the librarian working with your group will show you how to preview the digital collection
 
-5. Were there mistakes in your collection’s display? If so, return to your group’s metadata spreadsheet and correct any metadata mistakes
+5. Were there mistakes in your collection’s display? If so, return to your group’s metadata spreadsheet and correct any metadata mistakes **(Note: please make any edits only to your group's metadata sheet, not the class sheet)**
     - Hints: 
         - Make sure the filename in your metadata matches the file's name in reality.
         - Did you add .jpg or .pdf to the end of your filename?
